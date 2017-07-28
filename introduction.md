@@ -37,11 +37,8 @@
         - Rationality vs. Omniscience
         - Performance measure × Percepts × Knowledge → Action
 + what do AI do
-    *  
-    |           | Humanly   | Rationally |
-    | -         | -         | -          |
-    | Thinking  |           |            |
-    | Acting    |           |            |
+    * Humanly vs Rationally
+    * Thinking vs Acting
 + Solver
     * Linear Equations Model
     * tractable
