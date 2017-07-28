@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 Introduction
 
 # Outline
 + Introduction to AI and (AI) Planning
@@ -46,3 +46,18 @@
     * Linear Equations Model
     * tractable
 + AI solver
+    * intractable
+    * tasks
+        - Constraint Satisfaction/SAT   --(generalize with non-boolean)--> CSPs
+            + find state that satisfies constraints
+            + NP-Complete
+                * worst-case exponential in number of variables 
+        - Planning Problems
+            + find action sequence that produces desired state
+        - Planning with Feedback
+            + find strategy for producing desired state
++ Planning
+    * model-based
+    * NP-hard
+    * planner
+    * classical planning & ai planing
