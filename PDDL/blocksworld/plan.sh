@@ -1,0 +1,1 @@
+python planner.py domain.pddl problem.pddl plan.txt
