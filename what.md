@@ -11,6 +11,7 @@ Markov Decision Process (MDP)
 + transition probability
 + reward
 + a discount factor (can be iteratively defined)
-
++ value
++ Q
 + policy
 + 
