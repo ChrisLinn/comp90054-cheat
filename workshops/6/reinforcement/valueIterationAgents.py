@@ -45,13 +45,18 @@ class ValueIterationAgent(ValueEstimationAgent):
 
         # Write value iteration code here
         "*** YOUR CODE HERE ***"
+        self.newValues = util.Counter() # new values for a new iteration
         for i in range(self.iterations):
             for state in self.mdp.getStates():
-                bestQ = float('-inf')
-                for action in self.mdp.getPossibleActions(state):
-                    qValue = self.computeQValueFromValues(state, action)
-                    bestQ = max(bestQ, qValue)
-                self.values[state] = bestQ
+                if self.mdp.isTerminal(state):
+                    self.newValues[state] = 0
+                else:
+                    bestQ = float('-inf')
+                    for action in self.mdp.getPossibleActions(state):
+                        qValue = self.computeQValueFromValues(state, action)
+                        bestQ = max(bestQ, qValue)
+                    self.newValues[state] = bestQ
+            self.values = self.newValues.copy()
 
     def getValue(self, state):
         """
@@ -82,14 +87,11 @@ class ValueIterationAgent(ValueEstimationAgent):
           terminal state, you should return None.
         """
         "*** YOUR CODE HERE ***"
-        bestQ = float('-inf')
-        bestAction = None
+        self.qValues = util.Counter() # map actions to Q-values
         for action in self.mdp.getPossibleActions(state):
             qValue = self.computeQValueFromValues(state, action)
-            if qValue > bestQ:
-                bestQ = qValue
-                bestAction = action
-        return bestAction
+            self.qValues[action] = qValue
+        return self.qValues.argMax()
 
     def getPolicy(self, state):
         return self.computeActionFromValues(state)
