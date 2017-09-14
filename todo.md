@@ -4,4 +4,3 @@
 + MDP
 + MCTS
     * MCTS vs RL
-+ Planning.md
