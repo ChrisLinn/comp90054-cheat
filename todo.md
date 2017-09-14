@@ -1,4 +1,7 @@
 # TODOS
 
-+ MCTS vs RL
-+ off vs on
++ Planning
++ MDP
++ MCTS
+    * MCTS vs RL
++ Planning.md
