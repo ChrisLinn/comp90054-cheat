@@ -6,8 +6,6 @@ The striked-out parts are for further-reading purpose.
 
 ## Todos
 + Planning
-+ RL
-    * why does not MC require a model
 + Planning Recognition
 + Game Theory
 
