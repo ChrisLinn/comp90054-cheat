@@ -6,9 +6,9 @@ The striked-out parts are for further-reading purpose.
 
 ## Todos
 + Planning
-+ MCTS
-+ RL
 + MCTS vs RL
+    * MCTS
+    * RL
 + Planning Recog
 + Game Theory
 
