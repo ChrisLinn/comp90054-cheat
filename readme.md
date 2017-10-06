@@ -1,15 +1,14 @@
 # comp90054-cheat
 
-Cheat Sheet for __COMP90054 AI Planning for Autonomy__, 2017_sem2 in UniMelb.
+Cheat Sheet for __COMP90054 AI Planning for Autonomy__, 2017_sem2 in _UniMelb_.
 
 The striked-out parts are for further-reading purpose.
 
 ## Todos
 + Planning
++ RL
 + MCTS vs RL
-    * MCTS
-    * RL
-+ Planning Recog
++ Planning Recognition
 + Game Theory
 
 ## Acknowledgements
