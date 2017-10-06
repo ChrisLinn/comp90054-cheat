@@ -14,4 +14,4 @@ The striked-out parts are for further-reading purpose.
 ## Acknowledgements
 + [Dr. Nir Lipovetzky](http://people.eng.unimelb.edu.au/nlipovetzky/)
 + [Dr. Timothy Miller](http://people.eng.unimelb.edu.au/tmiller/)
-+ [Mr. Kaifu Ji](https://www.zhihu.com/people/ji-kai-fu/activities)
++ [纪 凯夫](https://www.zhihu.com/people/ji-kai-fu/activities)
