@@ -2,3 +2,5 @@
 .idea/
 *.pyc
 *output*
+
+_book
