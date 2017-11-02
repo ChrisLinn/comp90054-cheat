@@ -2,16 +2,17 @@
 
 Cheat Sheet for __COMP90054 AI Planning for Autonomy__, 2017-sem-2 in _UniMelb_.
 
-The striked-out parts are for further-reading purpose.
-
 + [repo](https://github.com/ChrisLinn/comp90054-cheat)
 + [gitbook](https://chrislinn.gitbooks.io/comp90054-cheat/)
+
+The striked-out parts are for further-reading purpose.
 
 ## Todos
 + Planning
 + Planning Recognition
 + Game Theory
 + Workshops
+    * HF & HG
 + Exams
 
 ## Acknowledgements
