@@ -15,6 +15,13 @@
 * [12. Game Theory](12.GameTheory.md)
 * [PDDL](PDDL/PDDL.md)
 * Workshops
+    * [Problems 1](workshops/problems_1.md)
+    * [Problems 2](workshops/problems_2.md)
+    * [Problems 3](workshops/problems_3.md)
+    * [Problems 4](workshops/problems_4.md)
+    * [Problems 5](workshops/problems_5.md)
+    * [Problems 6 & 7](workshops/problems_6_7.md)
+    * [Game Theory](workshops/game_theory.md)
 * Exams
     * [Revision Exercises 2016](exams/rev-2016..md)
     * [2009 Sem 1](exams/2009-s1.md)
