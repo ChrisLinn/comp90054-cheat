@@ -3,4 +3,4 @@
 *.pyc
 *output*
 
-_book
+_book/
