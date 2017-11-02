@@ -1,6 +1,6 @@
 # comp90054-cheat
 
-Cheat Sheet for __COMP90054 AI Planning for Autonomy__, 2017_sem2 in _UniMelb_.
+Cheat Sheet for __COMP90054 AI Planning for Autonomy__, 2017-sem-2 in _UniMelb_.
 
 The striked-out parts are for further-reading purpose.
 
@@ -11,6 +11,8 @@ The striked-out parts are for further-reading purpose.
 + Planning
 + Planning Recognition
 + Game Theory
++ Workshops
++ Exams
 
 ## Acknowledgements
 + [Dr. Nir Lipovetzky](http://people.eng.unimelb.edu.au/nlipovetzky/)

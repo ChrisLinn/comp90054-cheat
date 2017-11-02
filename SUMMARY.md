@@ -14,3 +14,4 @@
 * [11. Epistemic Planning](11.EpistemicPlanning.md)
 * [12. Game Theory](12.GameTheory.md)
 * [Workshops](workshops.md)
+* [Exams](exams/README.md)
