@@ -11,6 +11,7 @@ The striked-out parts are for further-reading purpose.
 + Planning
 + Planning Recognition
 + Game Theory
++ PDDL
 + Workshops
     * HF & HG
 + Exams

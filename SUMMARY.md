@@ -13,10 +13,10 @@
 * [10. Planning Recognition](10.PlanningRecognition..md)
 * [11. Epistemic Planning](11.EpistemicPlanning.md)
 * [12. Game Theory](12.GameTheory.md)
-* PDDL
+* [PDDL](PDDL/PDDL.md)
 * Workshops
 * Exams
-    * [Revision Exercises 2016](exams/rev-exerc-2016.md)
+    * [Revision Exercises 2016](exams/rev-2016..md)
     * [2009 Sem 1](exams/2009-s1.md)
     * [2008 Sem 1](exams/2008-s1.md)
 
