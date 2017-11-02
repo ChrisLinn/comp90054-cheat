@@ -21,7 +21,7 @@
     * [4](workshops/4/4.md)
     * [5](workshops/5/5.md)
     * [6 & 7](workshops/6_7/6_7.md)
-    * [MDPs_& RL](workshops/mdps_rl/mdps_rl.md)
+    * [MDPs & RL](workshops/mdps_rl/mdps_rl.md)
     * [Game Theory](workshops/game_theory/game_theory.md)
 * Exams
     * [~~Revision Exercises 2016~~](exams/rev-2016..md)
