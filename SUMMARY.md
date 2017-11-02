@@ -13,5 +13,6 @@
 * [10. Planning Recognition](10.PlanningRecognition.md)
 * [11. Epistemic Planning](11.EpistemicPlanning.md)
 * [12. Game Theory](12.GameTheory.md)
-* [Workshops](workshops.md)
-* [Exams](exams/README.md)
+* Workshops
+* Exams
+    - [Revision Exercises 2016](exams/rev-exerc-2016.md)
