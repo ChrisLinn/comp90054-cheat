@@ -4,6 +4,13 @@
 + Requirements
 + Type
     * Type Hierarchy
+        ```
+        (:types physobj - object
+                vehicle - physobj
+                truck airplane - vehicle
+                location city - object
+                airport - location)
+        ```
 + Predicates
 + Action
     * Precondition
