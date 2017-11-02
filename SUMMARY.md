@@ -1,0 +1,16 @@
+# Summary
+
+* [README](README.md)
+* [Introduction](1.Intro.md)
+* [Search Algorithms](2.SearchAlgo.md)
+* [Planning Models, Languages and Computational Approaches](3.Planning.md)
+* [Generating Heuristic Functions](4.Heuristic.md)
+* [Markov Decision Process](5.MDP.md)
+* [Online MDP Planning (MCTS)](6.MCTS.md)
+* [Reinforcement Learning](7.RL.md)
+* [AlphaGo](8.AlphaGo.md)
+* [Non-deterministic planning](9.FOND.md)
+* [Planning Recognition](10.PlanningRecognition.md)
+* [Epistemic Planning](11.EpistemicPlanning.md)
+* [Game Theory](12.GameTheory.md)
+* [Workshops](workshops.md)
