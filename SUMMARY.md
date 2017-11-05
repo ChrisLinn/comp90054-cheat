@@ -19,7 +19,7 @@
     * [2](workshops/2/2.md)
     * [3](workshops/3/3.md)
     * [4](workshops/4/4.md)
-    * [5](workshops/5/5.md)
+    * [~~5~~](workshops/5/5..md)
     * [6 & 7](workshops/6_7/6_7.md)
     * [MDPs & RL](workshops/mdps_rl/mdps_rl.md)
     * [Game Theory](workshops/game_theory/game_theory.md)
