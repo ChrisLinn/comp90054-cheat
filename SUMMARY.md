@@ -24,8 +24,6 @@
     * [MDPs & RL](workshops/mdps_rl/mdps_rl.md)
     * [Game Theory](workshops/game_theory/game_theory.md)
 * Exams
-    * [~~Revision Exercises 2016~~](exams/rev_2016..md)
-    * [2009 Sem 1](exams/2009_s1.md)
-    * [2008 Sem 1](exams/2008_s1.md)
+    * [~~Revision Exercises 2016~~](exams/rev..md)
 + [Resources](res.md)
 
